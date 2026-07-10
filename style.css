@@ -291,12 +291,11 @@ nav {
 }
 
 /* third buttn */
-.third-card .feature-btn{
+.third-card .feature-btn {
   background: white;
-  border: 2px solid #0D1B2A;
-  color: #0D1B2A;
+  border: 2px solid #0d1b2a;
+  color: #0d1b2a;
 }
-
 
 /* generated with AI */
 .cta {
@@ -366,4 +365,13 @@ nav {
 
 .cta-buttons a:hover {
   transform: translateY(-4px);
+}
+
+/* footer */
+footer{
+  background: blue;
+}
+.footer-container {
+  margin-top: 100px;
+  background: blueviolet;
 }
