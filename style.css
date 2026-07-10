@@ -299,9 +299,9 @@ nav {
 
 /* generated with AI */
 .cta {
-  margin-top: 20%;
+  margin-top: 15%;
   padding: 120px 8%;
-  background: #0f172a;
+  background: white;
 }
 
 .cta-content {
@@ -368,10 +368,49 @@ nav {
 }
 
 /* footer */
-footer{
-  background: blue;
+footer {
+  background: #0d1b2a;
+  color: white;
 }
 .footer-container {
   margin-top: 100px;
-  background: blueviolet;
+  padding: 20px 10px;
+}
+
+.footer-above-div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.footer-social-links {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.footer-social-links {
+  list-style: none;
+  color: white;
+}
+
+.footer-social-links img {
+  width: 30px;
+  height: 30px;
+  background: #575757;
+  border-radius: 5px;
+}
+
+.divider {
+  border: 1px solid #575757;
+  margin: 30px auto;
+}
+
+.footer-under-div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 1rem;
+  color: #575757;
 }
