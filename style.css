@@ -290,6 +290,14 @@ nav {
   color: white;
 }
 
+/* third buttn */
+.third-card .feature-btn{
+  background: white;
+  border: 2px solid #0D1B2A;
+  color: #0D1B2A;
+}
+
+
 /* generated with AI */
 .cta {
   margin-top: 20%;
