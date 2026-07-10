@@ -1,0 +1,2 @@
+act as : senior frontend developer,
+I have created a website using html and css, I have finished all the website's design but I have not finished a section above the footer section, now your task is that: You will generate code or design a section using html and css for above the footer section, So website is programmer assembly so create or design Remaining section but design should be related the website

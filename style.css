@@ -289,3 +289,73 @@ nav {
   background: #2563eb;
   color: white;
 }
+
+/* generated with AI */
+.cta {
+  margin-top: 20%;
+  padding: 120px 8%;
+  background: #0f172a;
+}
+
+.cta-content {
+  max-width: 900px;
+  margin: auto;
+  text-align: center;
+  background: #1e293b;
+  padding: 70px 60px;
+  border-radius: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.cta-subtitle {
+  display: inline-block;
+  margin-bottom: 18px;
+  color: #38bdf8;
+  font-size: 0.9rem;
+  letter-spacing: 3px;
+  font-weight: 600;
+}
+
+.cta h2 {
+  font-size: 3rem;
+  color: #fff;
+  margin-bottom: 25px;
+  line-height: 1.2;
+}
+
+.cta p {
+  max-width: 650px;
+  margin: 0 auto 40px;
+  color: #cbd5e1;
+  font-size: 1.05rem;
+  line-height: 1.8;
+}
+
+.cta-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.cta-buttons a {
+  text-decoration: none;
+  padding: 16px 36px;
+  border-radius: 50px;
+  font-weight: 600;
+  transition: 0.3s;
+}
+
+.cta-buttons a:first-child {
+  background: #38bdf8;
+  color: #fff;
+}
+
+.cta-buttons a:last-child {
+  border: 2px solid #38bdf8;
+  color: #38bdf8;
+}
+
+.cta-buttons a:hover {
+  transform: translateY(-4px);
+}
