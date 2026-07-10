@@ -299,9 +299,8 @@ nav {
 
 /* generated with AI */
 .cta {
-  margin-top: 15%;
-  padding: 120px 8%;
-  background: white;
+  padding: 10px;
+  margin-top: 150px;
 }
 
 .cta-content {
@@ -373,7 +372,7 @@ footer {
   color: white;
 }
 .footer-container {
-  margin-top: 100px;
+  margin-top: 150px;
   padding: 20px 10px;
 }
 
