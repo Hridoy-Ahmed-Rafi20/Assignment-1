@@ -145,24 +145,24 @@ nav {
 }
 
 /* speaker-title */
-.speaker-title{
-    margin: 20px auto 20px 20px;
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
+.speaker-title {
+  margin: 20px auto 20px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
 }
 
 /*  */
-.speaker-title p{
-    color: #2563EB;
-    font-size: 0.9rem;
+.speaker-title p {
+  color: #2563eb;
+  font-size: 0.9rem;
 }
 /*  */
-.speaker-title h4{
-    font-size: 1.2rem;
+.speaker-title h4 {
+  font-size: 1.2rem;
 }
 /*  */
-.speaker-title span{
-    color: #575757;
-    font-size: 0.9rem;
+.speaker-title span {
+  color: #575757;
+  font-size: 0.9rem;
 }
