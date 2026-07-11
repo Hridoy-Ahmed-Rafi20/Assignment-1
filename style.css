@@ -298,7 +298,7 @@ nav {
 }
 
 /* generated with AI */
-.community-heading{
+.community-heading {
   text-align: center;
   padding: 20px;
   font-size: 3rem;
@@ -434,7 +434,7 @@ footer {
   margin: 30px auto;
 }
 
-.footer-under-div {
+.footer-below-div {
   display: flex;
   align-items: center;
   justify-content: space-between;
