@@ -63,7 +63,6 @@ nav {
   background-size: cover;
   display: flex;
   align-items: center;
-  /* justify-content: center; */
   flex-direction: column;
   gap: 15px;
   color: white;
@@ -239,7 +238,7 @@ nav {
   border: 1px solid #e5e7eb;
 }
 
-/* pricing-cards-containe */
+/* */
 .feature {
   margin: 20px 10% 0px 20px;
   display: flex;
