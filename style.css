@@ -298,10 +298,12 @@ nav {
 }
 
 /* generated with AI */
-
-/* ===========================
-   Community Section
-=========================== */
+.community-heading{
+  text-align: center;
+  padding: 20px;
+  font-size: 3rem;
+  color: #000102;
+}
 
 .community-section {
   background: #ffffff;
